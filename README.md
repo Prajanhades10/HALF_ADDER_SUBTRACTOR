@@ -1,6 +1,6 @@
-NAME: PRAJAN SS
-REF NO: 24009412
-EXP NO 3: HALF ADDER SUBRACT0R
+# NAME: PRAJAN SS
+# EF NO: 24009412
+# EXP NO 3: IMPLEMENTATION OF HALF ADDER SUBRACT0R
 # AIM:
 
 To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming.
